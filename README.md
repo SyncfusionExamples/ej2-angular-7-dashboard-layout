@@ -35,12 +35,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 [Learn More about Angular Components](https://www.syncfusion.com/angular-components/?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
 [Documentation](https://ej2.syncfusion.com/angular/documentation/introduction/?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-samples)<br/><br/>
-[Online Demos](https://ej2.syncfusion.com/angular/demos/?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-samples)<br/><br/>
-[Community Forums](https://www.syncfusion.com/forums/?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-samples)<br/><br/>
-[Knowledge Base](https://www.syncfusion.com/kb/essential-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-samples)<br/><br/>
-[Suggest a feature](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-samples)<br/><br/>
-[Pricing](https://www.syncfusion.com/sales/products/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-samples)<br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
+[Online Demos](https://ej2.syncfusion.com/angular/demos/?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
+[Community Forums](https://www.syncfusion.com/forums/?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
+[Knowledge Base](https://www.syncfusion.com/kb/essential-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
+[Suggest a feature](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
+[Pricing](https://www.syncfusion.com/sales/products/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples)<br/><br/>
 
 ## About Syncfusion Angular UI Components
 Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. We provide popular Angular Components such as [Angular DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples), [Angular Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples), [Angular Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples), [Angular Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples), and [Angular PDF Viewer](https://www.syncfusion.com/angular-components/angular-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples).
