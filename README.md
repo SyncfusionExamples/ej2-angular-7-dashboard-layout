@@ -1,4 +1,4 @@
-# Dashboard Layout Angular7App
+# Getting started with Angular7 Dashboard Layout Application
 
 The [Angular Dashboard Layout](https://www.syncfusion.com/angular-components/angular-dashboard-layout?utm_source=github&utm_medium=listing&utm_campaign=angular-dashboard-layout-github-samples) is a grid-structured layout component that helps create static and dynamic dashboard layouts with panels. It is also referred as Angular Dashboard Layout Template. Dashboard panels are the basic building blocks of a dashboard and can be added programmatically or dynamically at runtime.
 
